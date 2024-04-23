@@ -4,15 +4,15 @@ Classe
 
   Rectangle
 
--width:double
--height:double
--area:double
--perimeter:double
--diagonal:double
+- width:double
+- height:double
+- area:double
+- perimeter:double
+- diagonal:double
 
-+calculateArea():void
-+calculatePerimeter():void
-+calculateDiagonal():void
++ calculateArea():void
++ calculatePerimeter():void
++ calculateDiagonal():void
 
 UTILIZAÇÃO DE:
 
